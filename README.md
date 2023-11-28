@@ -4,19 +4,6 @@ Bu basit React Redux projesi, modern web teknolojilerini kullanarak geliştirilm
 
 ![Proje Ekran Görüntüsü](önizlenim.png)
 
-## Başlangıç
-
-...
-
-## Kullanım
-
-...
-
-## Ekran Görüntüsü
-
-Projenin bir ekran görüntüsü:
-
-![Proje Ekran Görüntüsü](screenshots/screenshot.png)
 
 ## Teknolojiler
 
